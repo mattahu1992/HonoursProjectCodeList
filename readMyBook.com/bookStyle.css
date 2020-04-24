@@ -1,0 +1,17 @@
+textarea{
+	width: 800px;
+	height: 80px;
+	background-color: #fff;
+	resize : none;
+
+
+}
+
+button1 {
+	width:100px;
+	height:80px;
+	background-color: #fff;
+	color: #4699B7;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+	/* Matthew Alston*/

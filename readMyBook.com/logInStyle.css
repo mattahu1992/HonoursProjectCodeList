@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+html, body {
+  height: 95%;
+}
+
+body {
+	background-color:ffffff;
+
+font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+
+}
+
+h1{
+	font-size:24px;
+	color: #4699B7;
+}
+
+a{
+	color: #4699B7;
+	text-decoration:none;
+}
+a.hover{
+	color:066;
+}
+.container{
+
+	width.940px
+	padding:10px;
+	background-colour:#fff;
+	margin:20px auto;
+}
+
+
+.centre{
+	text-align:center;
+}
+
+html, footer {
+  height: 5%;
+}
+	/* Matthew Alston*/
